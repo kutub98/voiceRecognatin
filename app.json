@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "voiceRecognatin",
+    "slug": "voiceRecognatin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
